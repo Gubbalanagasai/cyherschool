@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+    this is qoutes in HTML
+</head>
+<body>
+    <blockquote>
+    <q>no one bad is ever truly bad,no one good is ever truly good </q>
+    <cite>loki laufison</cite>
+    </blockquote>
+</body>
